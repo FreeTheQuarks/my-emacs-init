@@ -239,7 +239,7 @@ If point was already at that position, move point to beginning of line."
 (put 'smart-beginning-of-line 'CUA 'move)
 (global-set-key [home] 'smart-beginning-of-line)
 
-;; ; Need this occassionally for a git bug which causes the line breaks to be wrong.
+;; ; Need this occasionally for a git bug which causes the line breaks to be wrong.
 ;; (defun dos2unix ()
 ;;   "Replace DOS eolns CR LF with Unix eolns CR"
 ;;   (interactive)
