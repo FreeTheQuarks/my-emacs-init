@@ -10,27 +10,7 @@
  '(compilation-message-face (quote default))
  '(cua-mode t nil (cua-base))
  '(custom-enabled-themes (quote (darcula)))
- '(custom-safe-themes (quote ("46fd293ff6e2f6b74a5edf1063c32f2a758ec24a5f63d13b07a20255c074d399"
-                              "e9776d12e4ccb722a2a732c6e80423331bcb93f02e089ba2a4b02e85de1cf00e"
-                              "58c6711a3b568437bab07a30385d34aacf64156cc5137ea20e799984f4227265"
-                              "96998f6f11ef9f551b427b8853d947a7857ea5a578c75aa9c4e7c73fe04d10b4"
-                              "b3775ba758e7d31f3bb849e7c9e48ff60929a792961a2d536edec8f68c671ca5"
-                              "3d5ef3d7ed58c9ad321f05360ad8a6b24585b9c49abcee67bdcbb0fe583a6950"
-                              "3cd28471e80be3bd2657ca3f03fbb2884ab669662271794360866ab60b6cb6e6"
-                              "72a81c54c97b9e5efcc3ea214382615649ebb539cb4f2fe3a46cd12af72c7607"
-                              "987b709680284a5858d5fe7e4e428463a20dfabe0a6f2a6146b3b8c7c529f08b"
-                              "0c29db826418061b40564e3351194a3d4a125d182c6ee5178c237a7364f0ff12"
-                              "9b59e147dbbde5e638ea1cde5ec0a358d5f269d27bd2b893a0947c4a867e14c1"
-                              "196cc00960232cfc7e74f4e95a94a5977cb16fd28ba7282195338f68c84058ec"
-                              "f8f68f14dc4bd60afc74ad0e24149d2ffcb126781beb6d753759b92fd5ff4c26"
-                              "3cc2385c39257fed66238921602d8104d8fd6266ad88a006d0a4325336f5ee02"
-                              "b825687675ea2644d1c017f246077cdd725d4326a1c11d84871308573d019f67"
-                              "f0d8af755039aa25cd0792ace9002ba885fd14ac8e8807388ab00ec84c9497d7"
-                              "ac2b1fed9c0f0190045359327e963ddad250e131fbf332e80d371b2e1dbc1dc4"
-                              "bc40f613df8e0d8f31c5eb3380b61f587e1b5bc439212e03d4ea44b26b4f408a"
-                              "05c3bc4eb1219953a4f182e10de1f7466d28987f48d647c01f1f0037ff35ab9a"
-                              "118717ce0a2645a0cf240b044999f964577ee10137b1f992b09a317d5073c02d"
-                              "49ad7c8d458074db7392f8b8a49235496e9228eb2fa6d3ca3a7aa9d23454efc6" default)))
+ '(custom-safe-themes (quote ("c697b65591ba1fdda42fae093563867a95046466285459bd4e686dc95a819310" "46fd293ff6e2f6b74a5edf1063c32f2a758ec24a5f63d13b07a20255c074d399" "e9776d12e4ccb722a2a732c6e80423331bcb93f02e089ba2a4b02e85de1cf00e" "58c6711a3b568437bab07a30385d34aacf64156cc5137ea20e799984f4227265" "96998f6f11ef9f551b427b8853d947a7857ea5a578c75aa9c4e7c73fe04d10b4" "b3775ba758e7d31f3bb849e7c9e48ff60929a792961a2d536edec8f68c671ca5" "3d5ef3d7ed58c9ad321f05360ad8a6b24585b9c49abcee67bdcbb0fe583a6950" "3cd28471e80be3bd2657ca3f03fbb2884ab669662271794360866ab60b6cb6e6" "72a81c54c97b9e5efcc3ea214382615649ebb539cb4f2fe3a46cd12af72c7607" "987b709680284a5858d5fe7e4e428463a20dfabe0a6f2a6146b3b8c7c529f08b" "0c29db826418061b40564e3351194a3d4a125d182c6ee5178c237a7364f0ff12" "9b59e147dbbde5e638ea1cde5ec0a358d5f269d27bd2b893a0947c4a867e14c1" "196cc00960232cfc7e74f4e95a94a5977cb16fd28ba7282195338f68c84058ec" "f8f68f14dc4bd60afc74ad0e24149d2ffcb126781beb6d753759b92fd5ff4c26" "3cc2385c39257fed66238921602d8104d8fd6266ad88a006d0a4325336f5ee02" "b825687675ea2644d1c017f246077cdd725d4326a1c11d84871308573d019f67" "f0d8af755039aa25cd0792ace9002ba885fd14ac8e8807388ab00ec84c9497d7" "ac2b1fed9c0f0190045359327e963ddad250e131fbf332e80d371b2e1dbc1dc4" "bc40f613df8e0d8f31c5eb3380b61f587e1b5bc439212e03d4ea44b26b4f408a" "05c3bc4eb1219953a4f182e10de1f7466d28987f48d647c01f1f0037ff35ab9a" "118717ce0a2645a0cf240b044999f964577ee10137b1f992b09a317d5073c02d" "49ad7c8d458074db7392f8b8a49235496e9228eb2fa6d3ca3a7aa9d23454efc6" default)))
  '(doc-view-continuous t)
  '(ecb-source-path (quote (("/" "/"))))
  '(ensime-sem-high-faces (quote ((var :foreground "#9876aa" :underline (:style wave :color "yellow")) (val :foreground "#9876aa") (varField :slant italic) (valField :foreground "#9876aa" :slant italic) (functionCall :foreground "#a9b7c6") (implicitConversion :underline (:color "#808080")) (implicitParams :underline (:color "#808080")) (operator :foreground "#cc7832") (param :foreground "#a9b7c6") (class :foreground "#4e807d") (trait :foreground "#4e807d" :slant italic) (object :foreground "#6897bb" :slant italic) (package :foreground "#cc7832") (deprecated :strike-through "#a9b7c6"))))
@@ -248,7 +228,11 @@ If point was already at that position, move point to beginning of line."
 
 
                                         ; Settings
+(kill-buffer "*scratch*") ; Open without scratch buffer
+
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
+(add-hook 'before-file-hook (lambda () (untabify (point-min) (point-max))))
+
 
 (require 'undo-tree)
 (global-undo-tree-mode 1)
@@ -272,7 +256,7 @@ If point was already at that position, move point to beginning of line."
 (setq show-paren-delay 0.5) ; Remove delay for matching braces
 (show-paren-mode 1) ; Highlight matching braces
 
-(setq-default indent-tabs-mode t)
+(setq-default indent-tabs-mode nil)
 
 (global-unset-key "\M-j")
 (global-set-key "\M-j" 'imenu)
@@ -288,6 +272,7 @@ If point was already at that position, move point to beginning of line."
 
 (add-hook 'python-mode-hook
   (lambda ()
+	(setq indent-tabs-mode f)
     (setq python-guess-indent nil)
     (setq tab-width 4)
     (setq python-indent 4)))
@@ -334,11 +319,16 @@ If point was already at that position, move point to beginning of line."
 (setq nxml-slash-auto-complete-flag t)
 
 
-                                        ;Packages
+                                        ; Packages
+
+(require 'neotree)
+(global-set-key [f6] 'neotree-toggle)
 
 (add-to-list 'auto-mode-alist '("\\.html?\\'" . web-mode))
 
 (setq-default indent-guide-global-mode t)
+
+(global-set-key (kbd "C-x C-g") 'google-this-mode-submap)
 
                                         ; Enclose selected text with characters
 (wrap-region-mode t)
@@ -359,6 +349,10 @@ If point was already at that position, move point to beginning of line."
 (global-set-key [M-right] 'highlight-symbol-next) ; Goes to next symbol
 (global-set-key [M-left] 'highlight-symbol-prev) ; Goes to previous symbol
 (global-set-key "\C-f" 'highlight-symbol-query-replace) ; Replace all symbols in a buffer.
+
+                                        ; Python
+(require 'py-autopep8)
+(add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
 
                                         ; C++
 
@@ -403,3 +397,4 @@ If point was already at that position, move point to beginning of line."
 (provide '.emacs)
 
 ;;; .emacs ends here
+(put 'upcase-region 'disabled nil)
